@@ -24,8 +24,8 @@ plugins:
   - jekyll-seo-tag
 
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mettralla.github.io/jekyll_101/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/jekyll_101" # the subpath of your site, e.g. /blog
+url: "https://mettralla.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Mettralla
 
 
